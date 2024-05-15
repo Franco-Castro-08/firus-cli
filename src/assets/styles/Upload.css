@@ -1,0 +1,40 @@
+
+.title{
+    margin-top: 20px;
+	margin-left: 35px;
+}
+
+.row-2{
+    margin-top: 20px;
+    margin-left: 70px;
+    display: flex;
+    gap: 65px;
+    flex-wrap: wrap;
+   
+}
+
+.btn-exa{
+    margin-left:320px;
+}
+
+.btn-1{
+    margin-left: 470px;
+    margin-top: 10px;
+    
+}
+
+
+.perdidos{
+    background-color:rgb(10, 226, 108) ;  
+    width: 300px;
+    padding: 20px 16px;
+    border-radius: 12px;
+}
+
+.card_img_top{
+    width: 270px;
+    height: 320px;
+}
+
+
+
